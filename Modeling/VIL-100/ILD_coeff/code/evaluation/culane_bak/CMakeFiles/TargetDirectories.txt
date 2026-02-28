@@ -1,0 +1,3 @@
+/media/gzp/VIL-100/MMA-Net-main/evaluation/culane/CMakeFiles/rebuild_cache.dir
+/media/gzp/VIL-100/MMA-Net-main/evaluation/culane/CMakeFiles/edit_cache.dir
+/media/gzp/VIL-100/MMA-Net-main/evaluation/culane/CMakeFiles/culane_evaluator.dir
